@@ -1,2 +1,2 @@
-# Data_Science_Portfolio
-Portfolio for Data Science Projects
+# Profitable Apps
+Quick analysis to explore App Store & Google Play Store apps and possible markets for grow.
